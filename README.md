@@ -1,5 +1,5 @@
 # MedAssist-Insight
-# MedAssist Insights: Generative & Agentic AI Medical Assistant
+# MedAssist Insight: Generative & Agentic AI Medical Assistant
 
 [Live Demo](link) | [Project Report / Paper](link)
 

@@ -1,0 +1,22 @@
+Red blood cell (RBC) indices provide information about the size, volume, and
+hemoglobin content of red blood cells and are used to help classify different
+types of anemia.
+
+Total RBC Count reflects the number of red blood cells in circulation.
+Packed Cell Volume (PCV or hematocrit) measures the percentage of blood volume
+occupied by red blood cells.
+
+Mean Corpuscular Volume (MCV) indicates the average size of red blood cells.
+Mean Corpuscular Hemoglobin (MCH) represents the average amount of hemoglobin
+per red blood cell.
+Mean Corpuscular Hemoglobin Concentration (MCHC) reflects the concentration
+of hemoglobin within red blood cells.
+Red Cell Distribution Width (RDW) measures variation in red blood cell size.
+
+WHO clinical guidance emphasizes that patterns across these indices are more
+important than a single value. For example:
+- Low MCV may suggest microcytic anemia (often iron-related)
+- High MCV may suggest macrocytic anemia (e.g., vitamin B12 or folate deficiency)
+- High RDW indicates increased variability in red blood cell size
+
+Interpretation should always consider clinical symptoms and additional tests.

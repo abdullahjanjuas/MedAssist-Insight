@@ -1,0 +1,18 @@
+White blood cells (WBCs) are part of the immune system and help protect the body
+against infections and inflammatory processes.
+
+Total WBC Count reflects the overall number of white blood cells.
+Differential leukocyte count breaks this down into specific cell types:
+
+Neutrophils are primarily involved in fighting bacterial infections and acute
+inflammation.
+Lymphocytes play a key role in viral infections and immune regulation.
+Monocytes help remove debris and participate in chronic inflammation.
+Eosinophils are associated with allergic reactions and parasitic infections.
+Basophils are involved in allergic and inflammatory responses.
+
+According to CDC clinical interpretation principles, changes in white blood cell
+patterns may reflect infection, inflammation, stress, or immune-related conditions.
+
+Single abnormal values should be interpreted cautiously and correlated with
+symptoms, medical history, and repeat testing if necessary.

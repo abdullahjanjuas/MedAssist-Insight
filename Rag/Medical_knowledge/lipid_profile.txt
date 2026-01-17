@@ -1,0 +1,13 @@
+A lipid profile measures different types of fats in the blood, including
+total cholesterol, LDL cholesterol, HDL cholesterol, and triglycerides.
+
+CDC guidelines emphasize that elevated LDL cholesterol and triglycerides are
+associated with increased risk of cardiovascular disease, while HDL cholesterol
+is considered protective.
+
+Lifestyle modifications such as balanced diet, regular physical activity,
+smoking cessation, and weight management are first-line measures for lipid
+management.
+
+Lipid values should be interpreted together with other cardiovascular risk
+factors, including blood pressure, diabetes status, and family history.

@@ -1,0 +1,15 @@
+Hemoglobin (Hb) is a protein in red blood cells responsible for carrying oxygen
+from the lungs to tissues and returning carbon dioxide to the lungs.
+
+According to WHO guidance, low hemoglobin levels are commonly associated with
+anemia, which may result from nutritional deficiencies (such as iron, vitamin B12,
+or folate), chronic disease, blood loss, or inherited conditions.
+
+High hemoglobin levels may be seen in dehydration, chronic lung disease, smoking,
+or conditions that increase red blood cell production.
+
+Hemoglobin values must be interpreted in the context of age, sex, altitude,
+hydration status, and overall clinical condition.
+
+Abnormal hemoglobin results should be discussed with a healthcare professional
+to determine possible causes and need for further testing.

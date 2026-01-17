@@ -1,0 +1,14 @@
+Blood glucose reflects the concentration of sugar in the blood and is a key
+indicator of metabolic health.
+
+According to CDC guidance:
+- Persistently elevated blood glucose levels are associated with diabetes
+  and increased risk of cardiovascular disease, kidney disease, and nerve damage.
+- Low blood glucose levels may cause symptoms such as dizziness, sweating,
+  confusion, or weakness.
+
+Blood glucose interpretation depends on whether the measurement was fasting,
+post-meal, or random, as well as patient history and symptoms.
+
+Lifestyle factors such as diet, physical activity, and body weight play a major
+role in blood glucose regulation.

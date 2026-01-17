@@ -1,0 +1,9 @@
+Liver function tests include measurements such as bilirubin, ALT, AST, ALP,
+and total protein.
+
+According to CDC guidance, abnormal liver test results may be associated with
+liver inflammation, infection, medication effects, alcohol use, or metabolic
+conditions.
+
+Mild elevations may be temporary, while persistent abnormalities may require
+further evaluation and monitoring.

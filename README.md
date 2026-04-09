@@ -1,7 +1,7 @@
 # MedAssist-Insight
 # MedAssist Insight: Generative & Agentic AI Medical Assistant
 
-[Live Demo](link) | [Project Report / Paper](link)
+[Live Demo](https://www.linkedin.com/posts/mabdullahjanjua_generative-ai-medical-assistant-end-to-end-ugcPost-7420836945221791744-06pc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0kudwB-TLu0IO-WbKZDoWYc0lADbQP-uo)
 
 
 ## Overview
